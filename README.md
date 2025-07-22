@@ -30,4 +30,4 @@ It includes records of passenger feedback and service ratings for various airlin
 - Visually Appealing Gauges and Charts - Easy-to-understand visuals that help monitor service performance.
 
 Here's how Dashboard look's like - 
-[Dashboard Preview]()
+[Dashboard Preview](https://github.com/Shubham-Dalvii/Airline-Passenger-Satisfaction-Dashboard/blob/main/Airline_Passenger_Satisfaction.png)
